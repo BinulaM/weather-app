@@ -11,7 +11,7 @@ function App() {
           <div class="under-location-name">
             <div class="small-icons-under-name">5°C</div>
             <div class="small-icons-under-name">
-              <img src="images/🦆 icon _day sunny_.svg" />
+              <img src="./assets/icon_cloud_.png" />
             </div>
           </div>
         </div>
