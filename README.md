@@ -25,13 +25,16 @@ A responsive weather application **created using React.js**. It fetches real-tim
 ## 📦 Getting Started
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/BinulaM/weather-app.git
 cd weather-app
-### 1. Clone the Repository
+```
+### 2. Install dependencies + Run App
+
 ```bash
-git clone https://github.com/BinulaM/weather-app.git
-cd weather-app
+cd src
 npm install axios
 npm start
+```
 
