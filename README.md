@@ -38,3 +38,11 @@ npm install axios
 npm start
 ```
 
+---
+
+## 🏫 Acknowledgements
+
+This weather app was originally developed as part of a group project during my studies at  
+**Queen Mary University of London (QMUL)**. It has been adapted and uploaded for portfolio purposes.
+
+
